@@ -3,6 +3,20 @@
 </em></p>
 </br>
 
+<p align="center">
+ <a href="https://github.com/P-ME3T">
+    <img src="https://img.shields.io/github/followers/P-ME3T?label=P-ME3T&style=social">
+ </a>
+ <a href="https://www.linkedin.com/in/meet-parikh-641a21191/">
+    <img src="https://img.shields.io/badge/Linkedin-264-blue?style=for-the-badge&logo=Linkedin">
+ </a>
+ <a href="https://twitter.com/P_ME3T">
+   <img src="https://img.shields.io/twitter/follow/P_ME3T?label=Meet%20Parikh&style=social">
+ </a>
+ <a href="https://www.instagram.com/meet__parikh/">
+   <img src="https://img.shields.io/badge/Instagram-286-pink?style=for-the-badge&logo=Instagram">
+</p>
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
 
 <p align="center">
@@ -11,17 +25,4 @@
 
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> My Stats 
 
-<p align="center">
- <a href="https://github.com/P-ME3T">
-    <img src="https://img.shields.io/github/followers/P-ME3T?label=P-ME3T&style=social">
- </a>
- <a href="https://www.linkedin.com/in/meet-parikh-641a21191/">
- </a>
- <a href="https://twitter.com/P_ME3T">
- </a>
- <a href="https://www.instagram.com/meet__parikh/">
- </a>
- <a href="https://www.quora.com/profile/Meet-Parikh-46">
- </a>
-</p>
 
