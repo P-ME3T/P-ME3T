@@ -2,6 +2,7 @@
 <p><em>Student at <a href="https://www.nmims.edu/">NMIMS University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
+<p align="center">
 <a href="https://github.com/P-ME3T">
  </a>
  <a href="https://www.linkedin.com/in/meet-parikh-641a21191/">
@@ -12,6 +13,7 @@
  </a>
 <a href="https://www.quora.com/profile/Meet-Parikh-46">
  </a>
+</p>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About me...
 
