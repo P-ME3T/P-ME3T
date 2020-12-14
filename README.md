@@ -13,6 +13,7 @@
 
 <p align="center">
  <a href="https://github.com/P-ME3T">
+    <img src="https://img.shields.io/github/followers/P-ME3T?label=P-ME3T&style=social">
  </a>
  <a href="https://www.linkedin.com/in/meet-parikh-641a21191/">
  </a>
