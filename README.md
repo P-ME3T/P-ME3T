@@ -7,5 +7,5 @@
 </p>
 
   <a href="https://www.linkedin.com/in/meet-parikh-641a21191/">
-    <img src="https://img.shields.io/badge/Linkedin-118-blue?style=for-the-badge&logo=Linkedin">
+    <img src="https://img.shields.io/badge/Linkedin-264-blue?style=for-the-badge&logo=Linkedin">
   </a>
